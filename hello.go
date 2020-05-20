@@ -11,3 +11,4 @@ func Hello() {
 // Bye says bye.
 func Bye() {
 	fmt.Println("Bye go mod!")
+}
