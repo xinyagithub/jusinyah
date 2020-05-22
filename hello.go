@@ -17,5 +17,6 @@ func Bye() {
 ///123
 func Fuck() {
 	fmt.Println("Fuck go mod!")
+	fmt.Println("---v2.0---")
 }
  
