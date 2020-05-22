@@ -12,3 +12,9 @@ func Hello() {
 func Bye() {
 	fmt.Println("Bye go mod!")
 }
+
+// Fuck says Fuck.
+func Fuck() {
+	fmt.Println("Fuck go mod!")
+}
+ 
