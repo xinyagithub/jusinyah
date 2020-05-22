@@ -1,3 +1,3 @@
-module github.com/xinyagithub/jusinyah/v2005
+module github.com/xinyagithub/jusinyah/v2
 
 go 1.13
