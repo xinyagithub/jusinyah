@@ -13,7 +13,8 @@ func Bye() {
 	fmt.Println("Bye go mod!")
 }
 
-// Fuck says Fuck.
+// Fuck says Fuck.  
+///123
 func Fuck() {
 	fmt.Println("Fuck go mod!")
 }
