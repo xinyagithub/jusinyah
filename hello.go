@@ -13,10 +13,10 @@ func Bye() {
 	fmt.Println("Bye go mod!")
 }
 
-// Fuck says Fuck.  
+// Foo says Fuck.  
 ///123
-func Fuck() {
-	fmt.Println("Fuck go mod!")
+func Foo() {
+	fmt.Println("Foo go mod!")
 	fmt.Println("---v2.0---")
 }
  
